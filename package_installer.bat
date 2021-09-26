@@ -6,7 +6,7 @@ pip install pillow
 pip install seaborn
 pip install scikit-learn
 pip install scikit-image
-pip install yfinance
+pip install streamlit
 pip install jupyterlab
 echo ********************Setup completed*******************
 pause
